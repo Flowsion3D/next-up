@@ -12,3 +12,5 @@ test('imports discard unknown titles and invalid choices',()=>{const s=normalize
 test('invalid state safely resets',()=>{for(const bad of [null,3,[],{version:2}])assert.deepEqual(normalizeState(bad,catalog),emptyState());});
 test('explanations are based on actual saved overlap',()=>{const s=castVote(emptyState(),'a','yes');assert.equal(reasonFor(catalog[2],catalog,s),'Because you saved Comedy A');assert.equal(reasonFor(catalog[1],catalog,s),'A conversation worth checking out');});
 test('all voted is a genuine empty deck',()=>{let s=emptyState();for(const t of catalog)s=castVote(s,t.id,'yes');assert.equal(rankTitles(catalog,s).length,0);});
+
+test('catalog additions preserve existing votes and expose new titles',()=>{const before=castVote(castVote(emptyState(),'a','yes'),'b','no');const expanded=[...catalog,{id:'e',title:'New Comedy',type:'movie',genres:['Comedy'],providers:[{name:'Netflix'}]}];const after=normalizeState(before,expanded);assert.deepEqual(after,before);assert.ok(rankTitles(expanded,after).some(t=>t.id==='e'));assert.ok(!rankTitles(expanded,after).some(t=>['a','b'].includes(t.id)));});

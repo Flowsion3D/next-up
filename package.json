@@ -1,11 +1,11 @@
 {
   "name": "next-up-discovery",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "python3 -m http.server 4173 --directory public",
-    "test": "node --test tests/recommender.test.mjs",
+    "test": "node --test tests/recommender.test.mjs tests/render.test.mjs",
     "check": "node --check public/app.mjs && node --check public/recommender.mjs && node scripts/validate.mjs",
     "build": "npm run check && npm test"
   }

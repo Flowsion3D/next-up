@@ -50,7 +50,7 @@
           "publishedDate": "2026-02-08",
           "dateScope": "post",
           "summary": "A repeat viewer says the show rewards rewatching and praises its blend of genres, comparing their enthusiasm to Dark.",
-          "caveat": "One enthusiast\u2019s opinion, not a consensus. The discussion can contain spoilers.",
+          "caveat": "One enthusiast’s opinion, not a consensus. The discussion can contain spoilers.",
           "containsSpoilers": true,
           "checkedAt": "2026-11-07",
           "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
@@ -174,7 +174,7 @@
       "socialEvidence": [
         {
           "platform": "Reddit",
-          "title": "Does Apple TV have actual \u201chaha\u201d comedy?",
+          "title": "Does Apple TV have actual “haha” comedy?",
           "url": "https://www.reddit.com/r/tvPlus/comments/1r9gys8/comment/o6caq9p/",
           "author": "u/Ok-Recording4145",
           "community": "r/tvPlus",
@@ -191,7 +191,7 @@
         },
         {
           "platform": "Reddit",
-          "title": "A viewer\u2019s caution about the tension",
+          "title": "A viewer’s caution about the tension",
           "url": "https://www.reddit.com/r/tvPlus/comments/1r9gys8/comment/o6ceigl/",
           "author": "u/nerdextra",
           "community": "r/tvPlus",
@@ -313,7 +313,7 @@
           "community": "r/OnlyMurdersHulu",
           "publishedDate": "2026-06-12",
           "dateScope": "post",
-          "summary": "The poster enthusiastically praises the show; replies celebrate the building\u2019s lore, musical-theater elements, and ensemble performances.",
+          "summary": "The poster enthusiastically praises the show; replies celebrate the building’s lore, musical-theater elements, and ensemble performances.",
           "caveat": "Season preferences vary, and the linked discussion includes major spoilers.",
           "containsSpoilers": true,
           "checkedAt": "2026-11-07",
@@ -371,7 +371,7 @@
           "publishedDate": "2026-11-01",
           "dateScope": "post",
           "summary": "After finishing the show, a viewer asks for more of its romance, humor, acting, and chemistry.",
-          "caveat": "This reflects one viewer\u2019s enthusiasm rather than a measured audience score.",
+          "caveat": "This reflects one viewer’s enthusiasm rather than a measured audience score.",
           "containsSpoilers": false,
           "checkedAt": "2026-11-07",
           "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
@@ -390,7 +390,7 @@
       "year": 2024,
       "type": "tv",
       "tagline": "Secrets look good on everyone.",
-      "synopsis": "A politician\u2019s wife secretly working as a spy reunites with an old friend after her lover is killed.",
+      "synopsis": "A politician’s wife secretly working as a spy reunites with an old friend after her lover is killed.",
       "genres": [
         "Drama",
         "Thriller",
@@ -597,14 +597,14 @@
       "socialEvidence": [
         {
           "platform": "Reddit",
-          "title": "A viewer\u2019s response in the Hit Man discussion",
+          "title": "A viewer’s response in the Hit Man discussion",
           "url": "https://www.reddit.com/r/movies/comments/1dan3nm/comment/l7ltbn8/",
           "author": "u/BeepBeepGoJeep",
           "community": "r/movies",
           "publishedDate": "2024-06-07",
           "dateScope": "thread",
-          "summary": "A viewer praises Glen Powell\u2019s performance and says the film kept them smiling. Other participants praise the leads\u2019 chemistry.",
-          "caveat": "Older release-week discussion, not current buzz. Reactions elsewhere in the thread are mixed, including criticism of the plot and ending. The date shown is the thread\u2019s opening date; the individual comment\u2019s exact date was not exposed.",
+          "summary": "A viewer praises Glen Powell’s performance and says the film kept them smiling. Other participants praise the leads’ chemistry.",
+          "caveat": "Older release-week discussion, not current buzz. Reactions elsewhere in the thread are mixed, including criticism of the plot and ending. The date shown is the thread’s opening date; the individual comment’s exact date was not exposed.",
           "containsSpoilers": true,
           "checkedAt": "2026-11-07",
           "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
@@ -654,7 +654,7 @@
       "socialEvidence": [
         {
           "platform": "Reddit",
-          "title": "A couple\u2019s movie-night favorites",
+          "title": "A couple’s movie-night favorites",
           "url": "https://www.reddit.com/r/MovieSuggestions/comments/1w217hl/help_us_pick_our_next_date_night_movie/",
           "author": "u/Silent-Story-4653",
           "community": "r/MovieSuggestions",
@@ -735,7 +735,7 @@
           "publishedDate": "2025-08-31",
           "dateScope": "thread",
           "summary": "A viewer liked it as a cozy blanket watch. The wider discussion also contains strong criticism of the adaptation and mystery.",
-          "caveat": "Thread contains spoilers. The date shown is the thread\u2019s opening date; the individual comment\u2019s exact date was not exposed.",
+          "caveat": "Thread contains spoilers. The date shown is the thread’s opening date; the individual comment’s exact date was not exposed.",
           "containsSpoilers": true,
           "checkedAt": "2026-11-07",
           "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
@@ -747,6 +747,375 @@
       "curationLabel": "Curated pick",
       "image": "./assets/the-thursday-murder-club.webp",
       "artworkLayout": "landscape"
+    },
+    {
+      "id": "shrinking",
+      "title": "Shrinking",
+      "year": 2023,
+      "type": "tv",
+      "runtimeMinutes": 34,
+      "runtimeNote": "Approximate average episode length; episodes vary.",
+      "genres": [
+        "Comedy"
+      ],
+      "moods": [
+        "Heartfelt",
+        "Funny"
+      ],
+      "synopsis": "A therapist tries radical honesty while rebuilding life after loss.",
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs"
+        }
+      ],
+      "metadataSource": "https://www.tvmaze.com/shows/58323/shrinking",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "Official provider title page opened; subscription offer visible. Check plan and region before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "I’m so glad I found Shrinking",
+          "url": "https://www.reddit.com/r/television/comments/1vt5su5/im_so_glad_i_found_shrinking/",
+          "author": "u/luvit_didntwhereit",
+          "community": "r/television",
+          "publishedDate": "2026-08-20",
+          "dateScope": "post",
+          "postPublishedDate": "2026-08-20",
+          "commentPublishedDate": null,
+          "commentDateLabel": null,
+          "dateNote": "Post date from indexed Reddit results; post content and author verified by opening the public page.",
+          "summary": "A viewer enthusiastically recommends the show and singles out Harrison Ford’s performance.",
+          "caveat": "The thread contains spoilers and mixed reactions to later seasons. Grief is central to the show.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 79
+        }
+      ],
+      "imageSource": "https://www.tvmaze.com/shows/58323/shrinking",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/610/1527402.jpg",
+      "image": "./assets/shrinking.webp",
+      "artworkLayout": "portrait",
+      "curationLabel": "Curated pick"
+    },
+    {
+      "id": "rebel-ridge",
+      "title": "Rebel Ridge",
+      "year": 2024,
+      "type": "movie",
+      "runtimeMinutes": 131,
+      "runtimeNote": null,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "moods": [
+        "Suspenseful",
+        "Intense"
+      ],
+      "synopsis": "A former Marine challenges small-town corruption after police seize his cousin’s bail money.",
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81157729"
+        }
+      ],
+      "metadataSource": "https://www.justwatch.com/us/movie/rebel-ridge",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81157729",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "Official provider title page opened; subscription offer visible. Check plan and region before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "'Rebel Ridge' (2024) - Police station scene is a very packed ~5 min",
+          "url": "https://www.reddit.com/r/movies/comments/1whizg0/rebel_ridge_2024_police_station_scene_is_a_very/",
+          "author": "u/BlindSwordzzman",
+          "community": "r/movies",
+          "publishedDate": "2026-09-16",
+          "dateScope": "post",
+          "postPublishedDate": "2026-09-16",
+          "commentPublishedDate": null,
+          "commentDateLabel": null,
+          "dateNote": "Post date from indexed Reddit results; post content and author verified by opening the public page.",
+          "summary": "On a rewatch, a viewer praises the way acting, sharp dialogue and action choreography combine in a tightly constructed scene.",
+          "caveat": "The discussion analyzes particular scenes and contains spoilers; expect violence and police corruption.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 52
+        }
+      ],
+      "poster": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABTzSeKJ_W6LgjJQXnqTB_WU9uWVw7btMRsQEn8oC6RO7HcgFf4zC3yw_oWWbAS1aNnXNNr9duaMaV7O8s29fsoEuMBsiOVDzqVw9QwQgVCW21Bnmqgq8-eMyOA.jpg?r=ad1",
+      "imageSource": "https://www.netflix.com/title/81157729",
+      "image": "./assets/rebel-ridge.webp",
+      "artworkLayout": "landscape",
+      "curationLabel": "Curated pick"
+    },
+    {
+      "id": "trying",
+      "title": "Trying",
+      "year": 2020,
+      "type": "tv",
+      "runtimeMinutes": 28,
+      "runtimeNote": "Approximate average episode length; episodes vary.",
+      "genres": [
+        "Comedy"
+      ],
+      "moods": [
+        "Heartfelt",
+        "Feel-good"
+      ],
+      "synopsis": "A couple navigate adoption, chaotic friendships and family expectations.",
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/trying/umc.cmc.6muy4la7lj1omu5nci4bt2m66"
+        }
+      ],
+      "metadataSource": "https://www.tvmaze.com/shows/45928/trying",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/trying/umc.cmc.6muy4la7lj1omu5nci4bt2m66",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "Official provider title page opened; subscription offer visible. Check plan and region before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Looking for next series after Shrinking and Ted Lasso",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1xjfh1z/comment/19rvszjkkteqt/",
+          "author": "u/BrigidKemmerer",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-10-30",
+          "dateScope": "post",
+          "postPublishedDate": "2026-10-30",
+          "commentPublishedDate": null,
+          "commentDateLabel": "8d ago (as displayed on opened comment page)",
+          "dateNote": "The absolute date is the thread date from indexed Reddit results, not an independently verified exact comment timestamp. Comment page displayed 8d ago.",
+          "summary": "A viewer who discovered Trying through recommendations says they are enjoying its warmth and humor.",
+          "caveat": "A brief personal recommendation, not a consensus. Infertility and adoption are central themes.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 8
+        }
+      ],
+      "imageSource": "https://www.tvmaze.com/shows/45928/trying",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/628/1570848.jpg",
+      "image": "./assets/trying.webp",
+      "artworkLayout": "portrait",
+      "curationLabel": "Curated pick"
+    },
+    {
+      "id": "a-man-on-the-inside",
+      "title": "A Man on the Inside",
+      "year": 2024,
+      "type": "tv",
+      "runtimeMinutes": 31,
+      "runtimeNote": "Approximate average episode length; episodes vary.",
+      "genres": [
+        "Comedy",
+        "Espionage"
+      ],
+      "moods": [
+        "Gentle",
+        "Funny"
+      ],
+      "synopsis": "A retired professor goes undercover for a private investigator and finds a new purpose.",
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81677257"
+        }
+      ],
+      "metadataSource": "https://www.tvmaze.com/shows/74443/a-man-on-the-inside",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81677257",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "Official provider title page opened; subscription offer visible. Check plan and region before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Looking for next series after Shrinking and Ted Lasso",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1xjfh1z/comment/19rvs5podkxk5/",
+          "author": "u/AimeeMonkeyBlue",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-10-30",
+          "dateScope": "post",
+          "postPublishedDate": "2026-10-30",
+          "commentPublishedDate": null,
+          "commentDateLabel": "8d ago (as displayed on opened comment page)",
+          "dateNote": "The absolute date is the thread date from indexed Reddit results, not an independently verified exact comment timestamp. Comment page displayed 8d ago.",
+          "summary": "A viewer offers A Man on the Inside as an endearing option for someone coming from Shrinking and Ted Lasso.",
+          "caveat": "Brief recommendation rather than a detailed review. Shares a source comment with Dark Matter.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 8
+        }
+      ],
+      "metadataNotes": "Netflix title page displays 2025 (current season); official Tudum series hub verifies original 2024 year: https://www.netflix.com/tudum/a-man-on-the-inside . Episode listings are 27–34 minutes.",
+      "imageSource": "https://www.tvmaze.com/shows/74443/a-man-on-the-inside",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499138.jpg",
+      "image": "./assets/a-man-on-the-inside.webp",
+      "artworkLayout": "portrait",
+      "curationLabel": "Curated pick"
+    },
+    {
+      "id": "dark-matter",
+      "title": "Dark Matter",
+      "year": 2024,
+      "type": "tv",
+      "runtimeMinutes": 55,
+      "runtimeNote": "Approximate average episode length; episodes vary.",
+      "genres": [
+        "Science-Fiction",
+        "Thriller",
+        "Mystery"
+      ],
+      "moods": [
+        "Mind-bending",
+        "Suspenseful"
+      ],
+      "synopsis": "An abducted physicist finds himself in another version of his life and tries to return home.",
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg"
+        }
+      ],
+      "metadataSource": "https://www.tvmaze.com/shows/61315/dark-matter",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "Official provider title page opened; subscription offer visible. Check plan and region before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Looking for next series after Shrinking and Ted Lasso",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1xjfh1z/comment/19rvs5podkxk5/",
+          "author": "u/AimeeMonkeyBlue",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-10-30",
+          "dateScope": "post",
+          "postPublishedDate": "2026-10-30",
+          "commentPublishedDate": null,
+          "commentDateLabel": "8d ago (as displayed on opened comment page)",
+          "dateNote": "The absolute date is the thread date from indexed Reddit results, not an independently verified exact comment timestamp. Comment page displayed 8d ago.",
+          "summary": "A viewer recommends Dark Matter for its inventive premise and ability to hold their interest.",
+          "caveat": "Brief recommendation rather than a detailed review. This is the 2024 Apple series, not the 2015 space opera. Shares a source comment with A Man on the Inside.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 8
+        }
+      ],
+      "imageSource": "https://www.tvmaze.com/shows/61315/dark-matter",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584721.jpg",
+      "image": "./assets/dark-matter.webp",
+      "artworkLayout": "portrait",
+      "curationLabel": "Curated pick"
+    },
+    {
+      "id": "hacks",
+      "title": "Hacks",
+      "year": 2021,
+      "type": "tv",
+      "runtimeMinutes": 33,
+      "runtimeNote": "Approximate average episode length; episodes vary.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "moods": [
+        "Sharp",
+        "Funny"
+      ],
+      "synopsis": "A veteran Las Vegas comic and a younger writer form an uneasy creative partnership.",
+      "providers": [
+        {
+          "name": "HBO Max",
+          "access": "subscription",
+          "url": "https://www.justwatch.com/us/tv-show/hacks",
+          "listingService": "JustWatch"
+        }
+      ],
+      "metadataSource": "https://www.tvmaze.com/shows/54914/hacks",
+      "availabilitySources": [
+        {
+          "url": "https://www.justwatch.com/us/tv-show/hacks",
+          "checkedAt": "2026-11-07",
+          "region": "US",
+          "note": "US subscription availability checked with JustWatch. Confirm availability and your plan with HBO Max before watching."
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Looking for next series after Shrinking and Ted Lasso",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1xjfh1z/comment/19rvtcwj1zroj/",
+          "author": "u/goopsorceress",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-10-30",
+          "dateScope": "post",
+          "postPublishedDate": "2026-10-30",
+          "commentPublishedDate": null,
+          "commentDateLabel": "8d ago (as displayed on opened comment page)",
+          "dateNote": "The absolute date is the thread date from indexed Reddit results, not an independently verified exact comment timestamp. Comment page displayed 8d ago.",
+          "summary": "A viewer enthusiastically recommends Hacks in a discussion of what to watch after Shrinking and Ted Lasso.",
+          "caveat": "A short endorsement, not a detailed review.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page and exact comment permalink opened where applicable; author and text verified. No snippet-only testimony.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 8
+        }
+      ],
+      "imageSource": "https://www.tvmaze.com/shows/54914/hacks",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/621/1552621.jpg",
+      "image": "./assets/hacks.webp",
+      "artworkLayout": "portrait",
+      "curationLabel": "Curated pick"
     }
   ],
   "sourceStatus": {

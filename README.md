@@ -8,7 +8,7 @@ A simple, static movie-night discovery dashboard prepared for GitHub Pages.
 - Yes saves a title and raises similar genres. No hides the title and lowers its genres. Remaining picks re-rank immediately.
 - Local saved list, undo, movie/show and streaming-provider filters, source details, and export/import.
 - One shared taste profile per browser. There is no account, tracking, or remote preference database.
-- Twelve curated titles, fifteen attributed Reddit references, and official US streaming-service links.
+- Eighteen curated titles, twenty-one attributed viewer references (nineteen distinct Reddit links), and checked US streaming listings.
 
 ## Run and test
 
@@ -35,7 +35,7 @@ Official workflow guide: https://docs.github.com/en/pages/getting-started-with-g
 
 ## Data and source honesty
 
-The research snapshot is **November 7, 2026**, for US subscription listings. Provider links are public listings, not a signed-in playback test or a guarantee of availability. No assumption is made about your subscriptions.
+The research snapshot is **November 7, 2026**, for US subscription listings. Provider links are public listings, not a signed-in playback test or a guarantee of availability. Most link directly to the service; Hacks uses a clearly labeled US JustWatch listing because its official provider page could not be inspected. No assumption is made about your subscriptions.
 
 The viewer summaries are original paraphrases of linked Reddit posts/comments, not quotations, scores, measured consensus, or independently verified identities. Publication dates and research dates are distinct. Some linked discussions include spoilers, which are marked before opening.
 
@@ -57,6 +57,10 @@ TVMaze offers a keyless public API with CORS for series metadata, not reliable U
 
 ## Verification
 
-`npm run build` runs syntax checks, catalog validation, and 10 focused recommendation/state tests. Static review addressed loading-state errors, keyboard import, card clipping, and focus continuity.
+`npm run build` runs syntax checks, catalog validation, and 13 focused recommendation/state/rendering tests. Static review addressed loading-state errors, keyboard import, card clipping, and focus continuity.
 
 The GitHub Actions run records checks and deployment for the specific commit. Browser verification should cover the published URL on desktop and mobile layouts, yes/no/undo, filters, list changes, reload persistence, source dialogs, keyboard controls, and source/provider links. This is a rough first pass, not a full accessibility or cross-browser certification.
+
+## November 7 catalog expansion
+
+Added Shrinking, Rebel Ridge, Trying, A Man on the Inside, Dark Matter, and Hacks. Four picks share an October 30 recommendation thread; A Man on the Inside and Dark Matter share one comment. Dates identify the thread when an exact comment timestamp is unavailable. No consensus or trending claim is inferred from these individual recommendations. Existing title IDs and browser storage format are unchanged, preserving previous votes.
