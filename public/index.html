@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111518">
+  <meta name="description" content="A quieter way to choose movie night. Real viewer conversations, streaming links, and recommendations that learn from your swipes.">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Next Up · A good night starts here</title>
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="site-header wrap">
+    <a class="brand" href="#discover" aria-label="Next Up home"><span class="brand-icon" aria-hidden="true">n<span>u</span></span><span>next up<span class="brand-dot">.</span></span></a>
+    <nav class="main-nav" aria-label="Main navigation"><button class="nav-button active" data-view="discover">Discover</button><button class="nav-button" data-view="saved">Your list <span class="count" id="saved-count">0</span></button></nav>
+    <button class="icon-button info-button" id="about-button" aria-label="About your recommendations"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7v.1"/></svg></button>
+  </header>
+  <main class="wrap">
+    <section class="intro" aria-labelledby="main-heading">
+      <div><p class="eyebrow"><span></span> FOR YOUR NEXT NIGHT IN</p><h1 id="main-heading">Find your next <em>“one more episode.”</em></h1><p class="intro-copy">Real viewer opinions. Less endless scrolling. Just something good.</p></div>
+      <div class="intro-stamp"><span class="stamp-icon" aria-hidden="true">✦</span><div>A little more you.<br><span>With every yes or no.</span></div></div>
+    </section>
+    <section class="toolbar" aria-label="Filter recommendations">
+      <div class="segmented" aria-label="Content type"><button class="active" data-type="all" aria-pressed="true">Everything</button><button data-type="movie" aria-pressed="false">Movies</button><button data-type="tv" aria-pressed="false">Shows</button></div>
+      <div class="filter-right"><label class="provider-select"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><select id="provider-filter" aria-label="Filter streaming service"><option value="all">All services</option></select><span aria-hidden="true">⌄</span></label><span class="region">US <span aria-hidden="true">·</span> streaming</span></div>
+    </section>
+    <div id="load-state" class="empty-state"><span class="loading-dot"></span><h2>Setting the scene…</h2><p>Gathering your first picks.</p></div>
+    <section id="discover-view" class="discovery-layout" hidden aria-label="Discover something to watch">
+      <div class="main-stack"><article id="current-card" class="discovery-card" tabindex="0" aria-label="Current recommendation. Left arrow to pass; right arrow to save."></article><div class="under-card"><p><span aria-hidden="true">↔</span> Swipe the card or use your arrow keys</p><button class="text-button" id="undo-button" disabled><span aria-hidden="true">↶</span> Undo last choice</button></div></div>
+      <aside class="side-panel"><section class="taste-panel"><p class="eyebrow">THE VIBE SO FAR <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.2 6.8L21 12l-6.8 2.2L12 21l-2.2-6.8L3 12l6.8-2.2z"/></svg></p><h2 id="taste-heading">A blank canvas.<br>A great night ahead.</h2><p id="taste-description">Save a few things you like. We’ll bring more of that energy.</p><div class="taste-tags" id="taste-tags"></div><div class="taste-meter" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><p class="local-note"><span class="tiny-dot"></span> Your choices stay in this browser</p></section><section class="upcoming-panel"><div class="section-heading"><h2>Also in the mix</h2><span id="remaining-count"></span></div><div id="upcoming-list"></div></section><div class="source-note"><span class="source-mark" aria-hidden="true">r/</span><p><strong>People, not promos.</strong><br>Picks with real Reddit discussions.<br><button class="inline-link" id="source-button">See how we choose →</button></p></div></aside>
+    </section>
+    <section id="saved-view" hidden aria-labelledby="saved-heading"><div class="saved-heading"><div><p class="eyebrow">THE GOOD STUFF</p><h2 id="saved-heading" tabindex="-1">Your next nights in.</h2></div><p id="saved-summary"></p></div><div id="saved-grid" class="saved-grid"></div></section>
+    <footer><span>Made for the “what should we watch?” moment.</span><button class="inline-link" id="data-button">Sources & privacy</button><span id="catalog-date"></span></footer>
+  </main>
+  <dialog id="info-dialog" aria-labelledby="dialog-heading"><div class="dialog-top"><span class="eyebrow">A LITTLE TRANSPARENCY</span><button class="icon-button" data-close-dialog aria-label="Close information">×</button></div><h2 id="dialog-heading">Good picks. No black box.</h2><div id="info-content"></div><div class="dialog-actions"><button class="small-button" id="export-button">Export my choices</button><button class="small-button file-label" id="import-button">Import choices</button><input type="file" id="import-file" accept="application/json,.json" hidden><button class="text-button danger" id="reset-button">Reset choices</button></div><p class="dialog-fineprint" id="storage-status"></p></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./app.mjs"></script>
+</body>
+</html>

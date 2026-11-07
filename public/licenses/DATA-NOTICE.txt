@@ -1,0 +1,6 @@
+TVMaze-derived series metadata in catalog.json is adapted under Creative Commons Attribution-ShareAlike 4.0. Sources are listed per record in metadataSource. This includes show title, premiere year, genre, and approximate episode runtime. Editorial descriptions/moods and source paraphrases were separately written for this project. The adapted TVMaze-derived dataset is available under the same CC BY-SA 4.0 license.
+
+TVMaze API: https://www.tvmaze.com/api
+License: https://creativecommons.org/licenses/by-sa/4.0/
+
+Artwork is not represented as CC-licensed solely because an API provided it. It remains copyrighted by its respective owners. Each record includes imageSource. Review promotional-artwork reuse before commercial distribution.

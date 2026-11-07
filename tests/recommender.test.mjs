@@ -1,0 +1,14 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {emptyState,normalizeState,castVote,undoVote,rankTitles,affinities,reasonFor} from '../public/recommender.mjs';
+const catalog=[{id:'a',title:'Comedy A',type:'movie',genres:['Comedy'],providers:[{name:'Hulu'}]},{id:'b',title:'Drama B',type:'tv',genres:['Drama'],providers:[{name:'Netflix'}]},{id:'c',title:'Comedy C',type:'tv',genres:['Comedy','Romance'],providers:[{name:'Netflix'}]},{id:'d',title:'Drama D',type:'movie',genres:['Drama'],providers:[{name:'Hulu'}]}];
+test('new users see stable editorial order',()=>assert.deepEqual(rankTitles(catalog,emptyState()).map(t=>t.id),['a','b','c','d']));
+test('yes saves title, hides it from discovery and prioritizes related genres',()=>{const s=castVote(emptyState(),'a','yes');assert.equal(s.votes.a,'yes');assert.equal(rankTitles(catalog,s)[0].id,'c');assert.ok(!rankTitles(catalog,s).some(t=>t.id==='a'));});
+test('no hides title and reduces same-genre score',()=>{const s=castVote(emptyState(),'a','no');assert.equal(rankTitles(catalog,s)[0].id,'b');assert.equal(affinities(catalog,s.votes).Comedy,-1.5);});
+test('movie and service filters combine correctly',()=>{assert.deepEqual(rankTitles(catalog,emptyState(),{type:'movie',provider:'Hulu'}).map(t=>t.id),['a','d']);assert.deepEqual(rankTitles(catalog,emptyState(),{type:'movie',provider:'Netflix'}),[]);});
+test('undo restores previous choices and ordering',()=>{let s=castVote(emptyState(),'a','yes');s=castVote(s,'a','no');s=undoVote(s);assert.equal(s.votes.a,'yes');s=undoVote(s);assert.deepEqual(s,emptyState());assert.deepEqual(undoVote(s),s);});
+test('undo restores neutral removal',()=>{const s={version:1,votes:{},history:[{id:'a',vote:'clear',previous:'yes'}]};assert.equal(undoVote(normalizeState(s,catalog)).votes.a,'yes');});
+test('imports discard unknown titles and invalid choices',()=>{const s=normalizeState({version:1,votes:{a:'yes',b:'bogus',unknown:'yes'},history:[{id:'unknown',vote:'yes',previous:null},{id:'a',vote:'yes',previous:null}]},catalog);assert.deepEqual(s.votes,{a:'yes'});assert.equal(s.history.length,1);});
+test('invalid state safely resets',()=>{for(const bad of [null,3,[],{version:2}])assert.deepEqual(normalizeState(bad,catalog),emptyState());});
+test('explanations are based on actual saved overlap',()=>{const s=castVote(emptyState(),'a','yes');assert.equal(reasonFor(catalog[2],catalog,s),'Because you saved Comedy A');assert.equal(reasonFor(catalog[1],catalog,s),'A conversation worth checking out');});
+test('all voted is a genuine empty deck',()=>{let s=emptyState();for(const t of catalog)s=castVote(s,t.id,'yes');assert.equal(rankTitles(catalog,s).length,0);});

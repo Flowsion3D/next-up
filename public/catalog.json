@@ -1,0 +1,765 @@
+{
+  "asOf": "2026-11-07",
+  "region": "US",
+  "mode": "curated snapshot",
+  "availabilityNote": "Check the service before watching. Region, plan, and availability can change. Provider listings are not a live availability guarantee.",
+  "imageAttribution": "TV series metadata/images via TVMaze (CC BY-SA); movie promotional artwork belongs to its respective rights holders.",
+  "titles": [
+    {
+      "id": "severance",
+      "title": "Severance",
+      "year": 2022,
+      "type": "tv",
+      "tagline": "A workplace mystery with a very strange work-life balance.",
+      "synopsis": "Office workers split their work and personal memories, then begin to question what their employer is hiding.",
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Mystery"
+      ],
+      "moods": [
+        "Mind-bending",
+        "Suspenseful"
+      ],
+      "runtimeMinutes": 49,
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/548/1371406.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/44933/severance",
+      "metadataSource": "https://www.tvmaze.com/shows/44933/severance",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "What's even remotely as good as Severance right now?",
+          "url": "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1qz9ms5/whats_even_remotely_as_good_as_severance_right_now/",
+          "author": "u/ElvisChopinJoplin",
+          "community": "r/SeveranceAppleTVPlus",
+          "publishedDate": "2026-02-08",
+          "dateScope": "post",
+          "summary": "A repeat viewer says the show rewards rewatching and praises its blend of genres, comparing their enthusiasm to Dark.",
+          "caveat": "One enthusiast\u2019s opinion, not a consensus. The discussion can contain spoilers.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 272
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/severance.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "slow-horses",
+      "title": "Slow Horses",
+      "year": 2022,
+      "type": "tv",
+      "tagline": "Bad spies. Excellent company.",
+      "synopsis": "A group of sidelined British intelligence agents keeps stumbling into cases far bigger than their careers.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Espionage"
+      ],
+      "moods": [
+        "Darkly funny",
+        "Suspenseful"
+      ],
+      "runtimeMinutes": 46,
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604425.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/45039/slow-horses",
+      "metadataSource": "https://www.tvmaze.com/shows/45039/slow-horses",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "A viewer recommends Slow Horses after The Diplomat",
+          "url": "https://www.reddit.com/r/PickMyNextShow/comments/1xp8sdi/comment/19s81f3bb0i4g/",
+          "author": "u/ChippyCho",
+          "community": "r/PickMyNextShow",
+          "publishedDate": "2026-11-06",
+          "dateScope": "post",
+          "summary": "A viewer strongly recommends Slow Horses to someone seeking the tension and dark humor of The Diplomat.",
+          "caveat": "Recommendation context rather than a detailed review.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 1
+        },
+        {
+          "platform": "Reddit",
+          "title": "Humor, tension, and strong performances",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1w8ftuv/comment/p82k2td/",
+          "author": "u/TheRestIsMemory",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-09-06",
+          "dateScope": "post",
+          "summary": "A viewer praises the balance of humor and tension and the casting, while flagging occasional sharp violence.",
+          "caveat": "Individual viewer comparison with Black Doves.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 62
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/slow-horses.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "the-studio",
+      "title": "The Studio",
+      "year": 2025,
+      "type": "tv",
+      "tagline": "Hollywood is having a nervous breakdown.",
+      "synopsis": "A newly promoted studio boss tries to make great films while navigating egos, executives, and his own disastrous decisions.",
+      "genres": [
+        "Comedy"
+      ],
+      "moods": [
+        "Funny",
+        "Satirical"
+      ],
+      "runtimeMinutes": 30,
+      "providers": [
+        {
+          "name": "Apple TV",
+          "access": "subscription",
+          "url": "https://tv.apple.com/us/show/the-studio/umc.cmc.7518algxc4lsoobtsx30dqb52"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/569/1424520.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/75605/the-studio",
+      "metadataSource": "https://www.tvmaze.com/shows/75605/the-studio",
+      "availabilitySources": [
+        {
+          "url": "https://tv.apple.com/us/show/the-studio/umc.cmc.7518algxc4lsoobtsx30dqb52",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Does Apple TV have actual \u201chaha\u201d comedy?",
+          "url": "https://www.reddit.com/r/tvPlus/comments/1r9gys8/comment/o6caq9p/",
+          "author": "u/Ok-Recording4145",
+          "community": "r/tvPlus",
+          "publishedDate": "2026-02-20",
+          "dateScope": "post",
+          "summary": "A viewer says The Studio made them laugh out loud. Replies also praise the comedy while finding the tension stressful.",
+          "caveat": "Funny does not necessarily mean relaxing.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 260
+        },
+        {
+          "platform": "Reddit",
+          "title": "A viewer\u2019s caution about the tension",
+          "url": "https://www.reddit.com/r/tvPlus/comments/1r9gys8/comment/o6ceigl/",
+          "author": "u/nerdextra",
+          "community": "r/tvPlus",
+          "publishedDate": "2026-02-20",
+          "dateScope": "post",
+          "summary": "A viewer enjoys the humor but says the show also makes them anxious.",
+          "caveat": "Useful counterpoint if you want a low-stress evening.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 260
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/the-studio.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "the-bear",
+      "title": "The Bear",
+      "year": 2022,
+      "type": "tv",
+      "tagline": "Big feelings. Small kitchen.",
+      "synopsis": "An ambitious chef returns to Chicago and tries to transform the family restaurant without losing the people holding it together.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Food"
+      ],
+      "moods": [
+        "Intense",
+        "Emotional"
+      ],
+      "runtimeMinutes": 35,
+      "providers": [
+        {
+          "name": "Hulu",
+          "access": "subscription",
+          "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574642.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/54198/the-bear",
+      "metadataSource": "https://www.tvmaze.com/shows/54198/the-bear",
+      "availabilitySources": [
+        {
+          "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Shows like the bear?",
+          "url": "https://www.reddit.com/r/TheBear/comments/1v2r0ic/shows_like_the_bear/",
+          "author": "u/Savings_Relative2430",
+          "community": "r/TheBear",
+          "publishedDate": "2026-07-21",
+          "dateScope": "post",
+          "summary": "A viewer who finished it in under a week praises the family drama, friendship, sibling relationships, and realism.",
+          "caveat": "Replies also describe it as stressful. It may suit an intense night more than a calming one.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 109
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/the-bear.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "only-murders-in-the-building",
+      "title": "Only Murders in the Building",
+      "year": 2021,
+      "type": "tv",
+      "tagline": "A little murder. A lot of personality.",
+      "synopsis": "Three neighbors turn their love of true-crime podcasts into a very personal murder investigation.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "moods": [
+        "Cozy mystery",
+        "Funny"
+      ],
+      "runtimeMinutes": 35,
+      "providers": [
+        {
+          "name": "Hulu",
+          "access": "subscription",
+          "url": "https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466415.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/48830/only-murders-in-the-building",
+      "metadataSource": "https://www.tvmaze.com/shows/48830/only-murders-in-the-building",
+      "availabilitySources": [
+        {
+          "url": "https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Which season is your favorite?",
+          "url": "https://www.reddit.com/r/OnlyMurdersHulu/comments/1u3qtzg/which_season_is_your_favorite/",
+          "author": "u/EyeWaste371",
+          "community": "r/OnlyMurdersHulu",
+          "publishedDate": "2026-06-12",
+          "dateScope": "post",
+          "summary": "The poster enthusiastically praises the show; replies celebrate the building\u2019s lore, musical-theater elements, and ensemble performances.",
+          "caveat": "Season preferences vary, and the linked discussion includes major spoilers.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 148
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/only-murders-in-the-building.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "nobody-wants-this",
+      "title": "Nobody Wants This",
+      "year": 2024,
+      "type": "tv",
+      "tagline": "Chemistry with complications.",
+      "synopsis": "A candid podcaster and a rabbi fall for each other while their families and very different lives complicate everything.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "moods": [
+        "Romantic",
+        "Funny"
+      ],
+      "runtimeMinutes": 27,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81591296"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/646/1615448.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/77060/nobody-wants-this",
+      "metadataSource": "https://www.tvmaze.com/shows/77060/nobody-wants-this",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81591296",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "A show similar to this one?",
+          "url": "https://www.reddit.com/r/NobodyWantsThisTV/comments/1xl0orm/a_show_similar_to_this_one/",
+          "author": "u/vaikelatern",
+          "community": "r/NobodyWantsThisTV",
+          "publishedDate": "2026-11-01",
+          "dateScope": "post",
+          "summary": "After finishing the show, a viewer asks for more of its romance, humor, acting, and chemistry.",
+          "caveat": "This reflects one viewer\u2019s enthusiasm rather than a measured audience score.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 6
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/nobody-wants-this.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "black-doves",
+      "title": "Black Doves",
+      "year": 2024,
+      "type": "tv",
+      "tagline": "Secrets look good on everyone.",
+      "synopsis": "A politician\u2019s wife secretly working as a spy reunites with an old friend after her lover is killed.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Espionage"
+      ],
+      "moods": [
+        "Suspenseful",
+        "Darkly funny"
+      ],
+      "runtimeMinutes": 53,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81682935"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607270.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/68407/black-doves",
+      "metadataSource": "https://www.tvmaze.com/shows/68407/black-doves",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81682935",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Shows like Black Doves",
+          "url": "https://www.reddit.com/r/televisionsuggestions/comments/1w8ftuv/shows_like_black_doves/",
+          "author": "u/JaneSophiaGreen",
+          "community": "r/televisionsuggestions",
+          "publishedDate": "2026-09-05",
+          "dateScope": "post",
+          "summary": "A viewer enjoyed its morally compromised spies, queer themes, subtle glamour, and sets, and asks for similar shows.",
+          "caveat": "Aesthetic and tone recommendation, not a claim that its espionage is realistic.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 63
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/black-doves.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "the-diplomat",
+      "title": "The Diplomat",
+      "year": 2023,
+      "type": "tv",
+      "tagline": "International crises. Marital ones, too.",
+      "synopsis": "A US ambassador navigates dangerous international politics and an equally complicated marriage.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "moods": [
+        "Smart",
+        "Suspenseful"
+      ],
+      "runtimeMinutes": 50,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81288983"
+        }
+      ],
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/646/1615567.jpg",
+      "backdrop": null,
+      "imageSource": "https://www.tvmaze.com/shows/60213/the-diplomat",
+      "metadataSource": "https://www.tvmaze.com/shows/60213/the-diplomat",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81288983",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Finished The Diplomat and looking for a similar binge",
+          "url": "https://www.reddit.com/r/PickMyNextShow/comments/1xp8sdi/finished_the_diplomat_on_netflix_and_have_massive/",
+          "author": "u/ActionJackson58",
+          "community": "r/PickMyNextShow",
+          "publishedDate": "2026-11-06",
+          "dateScope": "post",
+          "summary": "A viewer praises the intelligence, tension, dark comedy, and international stakes, then asks for another political or spy thriller.",
+          "caveat": "Recent discussion, but still an individual opinion.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 1
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/the-diplomat.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "palm-springs",
+      "title": "Palm Springs",
+      "year": 2020,
+      "type": "movie",
+      "tagline": "Your date night, on repeat.",
+      "synopsis": "Two wedding guests get stuck reliving the same desert day and discover that escaping their problems takes more than changing the date.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Science-Fiction"
+      ],
+      "moods": [
+        "Romantic",
+        "Mind-bending",
+        "Funny"
+      ],
+      "runtimeMinutes": null,
+      "providers": [
+        {
+          "name": "Hulu",
+          "access": "subscription",
+          "url": "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11"
+        }
+      ],
+      "poster": "https://press.hulu.com/storage/uploads/4B/EB/4BEB459C-31B3-5FA9-A2E2-4CA60A5E547D/Palm-Springs-Hulu_Key-Art-Hero-832x1228.jpg",
+      "backdrop": null,
+      "imageSource": "https://press.hulu.com/shows/palm-springs/",
+      "metadataSource": "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11",
+      "availabilitySources": [
+        {
+          "url": "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Help us pick our next date night movie!",
+          "url": "https://www.reddit.com/r/MovieSuggestions/comments/1w217hl/help_us_pick_our_next_date_night_movie/",
+          "author": "u/Silent-Story-4653",
+          "community": "r/MovieSuggestions",
+          "publishedDate": "2026-08-29",
+          "dateScope": "post",
+          "summary": "The poster says they and their husband loved Palm Springs for date night and want more entertaining movies that are fun to experience together.",
+          "caveat": "The thread includes several genres, not just romantic comedies.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 70
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/palm-springs.webp",
+      "artworkLayout": "portrait"
+    },
+    {
+      "id": "hit-man",
+      "title": "Hit Man",
+      "year": 2024,
+      "type": "movie",
+      "tagline": "A fake assassin. Very real chemistry.",
+      "synopsis": "A professor posing as a hired killer for police stings lets an unexpected romance blur the line between his invented identities.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "moods": [
+        "Romantic",
+        "Playful",
+        "Suspenseful"
+      ],
+      "runtimeMinutes": null,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81728840"
+        }
+      ],
+      "poster": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQSVYfZCwK2Iq1R5I0dn1JOJ11TIJG1jGbexqSlcaJMYqfmRo3YPmIQUxKzb2JGXAWo_A0LXDsYpO96p09Jxe7Vi4vSArfEWLI6i.jpg?r=e3b",
+      "backdrop": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQSVYfZCwK2Iq1R5I0dn1JOJ11TIJG1jGbexqSlcaJMYqfmRo3YPmIQUxKzb2JGXAWo_A0LXDsYpO96p09Jxe7Vi4vSArfEWLI6i.jpg?r=e3b",
+      "imageSource": "https://www.netflix.com/title/81728840",
+      "metadataSource": "https://www.netflix.com/title/81728840",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81728840",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "A viewer\u2019s response in the Hit Man discussion",
+          "url": "https://www.reddit.com/r/movies/comments/1dan3nm/comment/l7ltbn8/",
+          "author": "u/BeepBeepGoJeep",
+          "community": "r/movies",
+          "publishedDate": "2024-06-07",
+          "dateScope": "thread",
+          "summary": "A viewer praises Glen Powell\u2019s performance and says the film kept them smiling. Other participants praise the leads\u2019 chemistry.",
+          "caveat": "Older release-week discussion, not current buzz. Reactions elsewhere in the thread are mixed, including criticism of the plot and ending. The date shown is the thread\u2019s opening date; the individual comment\u2019s exact date was not exposed.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 883
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/hit-man.webp",
+      "artworkLayout": "landscape"
+    },
+    {
+      "id": "glass-onion",
+      "title": "Glass Onion",
+      "year": 2022,
+      "type": "movie",
+      "tagline": "Everyone has something to hide.",
+      "synopsis": "Detective Benoit Blanc joins a lavish island gathering where a murder game becomes a very real mystery.",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "moods": [
+        "Funny",
+        "Twisty"
+      ],
+      "runtimeMinutes": null,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81458416"
+        }
+      ],
+      "poster": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbhGypvbU56PGyHvEQX-H9Vrz68eGJPdr4dcrtJzMQB21HspoVmmNcgjD46LeVUfFQ5kJ_fo7KG2thXrwPSHEhlW4HUJkRrOk3pH.jpg?r=633",
+      "backdrop": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbhGypvbU56PGyHvEQX-H9Vrz68eGJPdr4dcrtJzMQB21HspoVmmNcgjD46LeVUfFQ5kJ_fo7KG2thXrwPSHEhlW4HUJkRrOk3pH.jpg?r=633",
+      "imageSource": "https://www.netflix.com/title/81458416",
+      "metadataSource": "https://www.netflix.com/title/81458416",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81458416",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "A couple\u2019s movie-night favorites",
+          "url": "https://www.reddit.com/r/MovieSuggestions/comments/1w217hl/help_us_pick_our_next_date_night_movie/",
+          "author": "u/Silent-Story-4653",
+          "community": "r/MovieSuggestions",
+          "publishedDate": "2026-08-29",
+          "dateScope": "post",
+          "summary": "A couple lists Glass Onion among the movies they both liked while asking for another enjoyable movie night.",
+          "caveat": "A brief endorsement in a favorites list, not a detailed review.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 70
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/glass-onion.webp",
+      "artworkLayout": "landscape"
+    },
+    {
+      "id": "the-thursday-murder-club",
+      "title": "The Thursday Murder Club",
+      "year": 2025,
+      "type": "movie",
+      "tagline": "Retirement has never been this suspicious.",
+      "synopsis": "Four retirement-community friends trade cold-case speculation for a live murder investigation.",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "moods": [
+        "Cozy mystery",
+        "Funny"
+      ],
+      "runtimeMinutes": null,
+      "providers": [
+        {
+          "name": "Netflix",
+          "access": "subscription",
+          "url": "https://www.netflix.com/title/81751137"
+        }
+      ],
+      "poster": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdWekAUDda333LGIjYeGNS1G6HYuPz7ArfE8oeOEydFToeAhv_Ks6TprcrUnbXa6QtOhXjDofvX9fDARoYdLuTpyhcmHL-J4l5QJ.jpg?r=ab8",
+      "backdrop": "https://occ-0-4249-153.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdWekAUDda333LGIjYeGNS1G6HYuPz7ArfE8oeOEydFToeAhv_Ks6TprcrUnbXa6QtOhXjDofvX9fDARoYdLuTpyhcmHL-J4l5QJ.jpg?r=ab8",
+      "imageSource": "https://www.netflix.com/title/81751137",
+      "metadataSource": "https://www.netflix.com/title/81751137",
+      "availabilitySources": [
+        {
+          "url": "https://www.netflix.com/title/81751137",
+          "checkedAt": "2026-11-07",
+          "publishedAt": null
+        }
+      ],
+      "socialEvidence": [
+        {
+          "platform": "Reddit",
+          "title": "Totally enjoyed The Thursday Murder Club movie",
+          "url": "https://www.reddit.com/r/movies/comments/1n3a2on/totally_enjoyed_the_thursday_murder_club_movie/",
+          "author": "u/exhaustedlittlething",
+          "community": "r/movies",
+          "publishedDate": "2025-08-29",
+          "dateScope": "post",
+          "summary": "The poster enjoyed the film and wants more lighthearted mysteries with witty characters.",
+          "caveat": "Older viewer post. Reception is mixed, especially among readers of the books.",
+          "containsSpoilers": false,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 435
+        },
+        {
+          "platform": "Reddit",
+          "title": "A cozy-movie response in the film discussion",
+          "url": "https://www.reddit.com/r/movies/comments/1n5045m/comment/nbpa7p9/",
+          "author": "u/Ok_Training1449",
+          "community": "r/movies",
+          "publishedDate": "2025-08-31",
+          "dateScope": "thread",
+          "summary": "A viewer liked it as a cozy blanket watch. The wider discussion also contains strong criticism of the adaptation and mystery.",
+          "caveat": "Thread contains spoilers. The date shown is the thread\u2019s opening date; the individual comment\u2019s exact date was not exposed.",
+          "containsSpoilers": true,
+          "checkedAt": "2026-11-07",
+          "verification": "Public page opened and content checked; date from search-indexed Reddit result.",
+          "freshness": "Curated snapshot, not a live feed.",
+          "quote": null,
+          "ageDaysAtCheck": 433
+        }
+      ],
+      "curationLabel": "Curated pick",
+      "image": "./assets/the-thursday-murder-club.webp",
+      "artworkLayout": "landscape"
+    }
+  ],
+  "sourceStatus": {
+    "Reddit": {
+      "status": "curated_snapshot",
+      "verifiedTitles": 12,
+      "verifiedEvidenceLinks": 15,
+      "note": "Public Reddit posts and comments were opened. Publication dates are distinct from the research date. Posts are not a representative survey, and author identity or sponsorship was not independently verified."
+    },
+    "TikTok": {
+      "status": "unavailable",
+      "verifiedPosts": 0,
+      "reason": "TikTok /@ pages returned a non-retryable robots.txt block through the available web tool. No verified TikTok videos, testimonials, engagement counts, or trends are included. TikTok Shop, Notes, and promotional newsroom material were not substituted for viewer videos."
+    }
+  }
+}
