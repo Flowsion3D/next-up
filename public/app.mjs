@@ -23,7 +23,7 @@ function render(){
   const queue=list(),t=queue[0],card=$('#current-card');
   card.classList.remove('exit-yes','exit-no');card.style.transform='';
   if(!t){
-    card.classList.add('empty-state');card.removeAttribute('tabindex');
+    card.classList.add('empty-state');card.removeAttribute('tabindex');card.setAttribute('aria-label','No unseen recommendations in this lineup');
     const anyUnseen=catalog.some(x=>!state.votes[x.id]);
     card.innerHTML=`<div><span class="empty-icon" aria-hidden="true">${anyUnseen?'⌕':'✦'}</span><h2>${anyUnseen?'A little too specific.':'You’ve met the whole lineup.'}</h2><p>${anyUnseen?'No unseen picks match these filters. Try everything or another service.':`${saved.length?'Your saved picks are ready for movie night.':'Nothing clicked? You can revisit your choices.'}<br>This first edition has ${catalog.length} curated titles. It doesn’t fetch new titles automatically.`}</p><button class="small-button" id="empty-action">${anyUnseen?'Clear filters':saved.length?'See your list':'Revisit passed picks'}</button>${!anyUnseen&&saved.length?'<p><button class="inline-link" id="revisit-button">Revisit passed picks</button></p>':''}</div>`;
     $('#empty-action').onclick=()=>{if(anyUnseen)clearFilters();else if(saved.length)setView('saved');else revisit();};

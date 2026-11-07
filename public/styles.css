@@ -73,3 +73,5 @@
 
 /* Let long titles and source notes determine height; never clip controls. */
 .discovery-card{height:auto;min-height:560px}.poster-panel>img{position:absolute;inset:0}.card-content{min-height:560px}.poster-panel{min-height:100%}.saved-card .providers .provider-link{max-width:100%}@media(max-width:880px){.card-content{min-height:540px}}@media(max-width:600px){.discovery-card{min-height:0}.card-content{min-height:0}.poster-panel{min-height:0}}
+
+.discovery-card.empty-state{display:flex;align-items:center;justify-content:center}.discovery-card.empty-state>div{max-width:480px}
